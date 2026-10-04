@@ -1,7 +1,7 @@
 {
   "name": "deepseek-legacy-bridge",
   "version": "1.0.0",
-  "description": "Universal backend API compatible with legacy clients",
+  "description": "Custom DeepSeek API thet works on legacy clients. :)",
   "main": "api/index.js",
   "scripts": {
     "start": "node api/index.js"
